@@ -1,0 +1,25 @@
+nav {
+    background-color: #333; /* Dark background color */
+    padding: 10px; /* Add some padding for spacing */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove bullet points from list */
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline; /* Display list items inline */
+    margin-right: 20px; /* Add some spacing between list items */
+  }
+  
+  a {
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* White text color */
+    font-weight: bold; /* Bold font weight */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
